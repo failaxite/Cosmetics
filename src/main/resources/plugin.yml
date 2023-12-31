@@ -1,0 +1,7 @@
+name: HCosmetics
+version: 1.0
+main: fr.failaxite.cosmetics.Cosmetics
+author: failaxite
+commands: 
+  cosmetics:
+  testhat:
